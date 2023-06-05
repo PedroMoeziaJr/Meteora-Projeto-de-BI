@@ -1,17 +1,19 @@
-# Nome do meu projeto
+# Projeto de BI para empresa METEORA - MODA DE IMPACTO
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto parte do Alura Challenge BI 3 e 4 semana
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Projeto de BI da empresa METEORA**
+| :label: Tecnologias | MySQL, Qlik Sense
+| :rocket: URL         | [https://url-deploy.com.br](https://www.alura.com.br/challenges/bi-3/semana-03-04-financeiro-empreendendo-dados-comercio-online?utm_source=ActiveCampaign&utm_medium=email&utm_content=%5BChallenge+BI%5D+%C3%9Altimos+desafios+no+ar%2C++FIRSTNAME++%E2%9C%85&utm_campaign=%5BCHALLANGE%5D+%28BI+-+3%C2%AA+ed+%29+E-mail+avisando+libera%C3%A7%C3%A3o+da+aula+03e04+%2B+convite+live+revis%C3%A3o+de+c%C3%B3digo&vgo_ee=aze3E7l1gxtnsu8AnmZeprYY%2Fzumqtc%2B%2Bv737AI3v%2FTB608%3D%3AJzgl9M%2FxDL3YTdrLxMcH67t1apCbsRZ%2F)
+| :fire: Desafio     | [https://url-do-desafio.com.br](https://trello.com/b/dlXn3nuM/challenge-bi-semana-3-e-4)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+1- Criação do Banco de Dados da empresa Meteora.
+
+>Criação 
