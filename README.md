@@ -47,7 +47,15 @@ Cliquei em Próxima>Procurar e Procurei os arquivs .CSV e começei pela pasta "p
 
 ![image](https://github.com/PedroMoeziaJr/Meteora-Projeto-de-BI/assets/112977342/c8170705-5186-424d-abd4-ca696b9abbb6)
 
+>Próxima>Concluir
 
+create database meterora
+use meterora
+select * from produtos;
+
+![image](https://github.com/PedroMoeziaJr/Meteora-Projeto-de-BI/assets/112977342/da864b9f-e6b7-432a-8100-e8b68269bc3e)
+
+E assim fiz com as demais pastas
   
   
 
