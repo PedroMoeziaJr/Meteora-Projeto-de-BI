@@ -22,6 +22,15 @@ Projeto parte do Alura Challenge BI 3 e 4 semana
 
 >Criação do banco de dados físico.
 
+  create database meteora
+  
+>Criação das tabelas.
+>Importanto dados das planilhas Meteora - matriz .xlsx
+
+Fiz o download de cada pasta(produtos, pedidos, itens_pedidos e vendedores) no formato .CSV e salvei em uma pasta.
+![image](https://github.com/PedroMoeziaJr/Meteora-Projeto-de-BI/assets/112977342/6b4ab758-360c-4adc-92e3-50b0a730974f)
+
+
 
 
 
