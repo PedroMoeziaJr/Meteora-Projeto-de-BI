@@ -45,6 +45,7 @@ Cliquei em Próxima>Procurar e Procurei os arquivs .CSV e começei pela pasta "p
 
 ![image](https://github.com/PedroMoeziaJr/Meteora-Projeto-de-BI/assets/112977342/f1e67847-4b63-42c5-99da-4809af6d2f06)
 
+![image](https://github.com/PedroMoeziaJr/Meteora-Projeto-de-BI/assets/112977342/c8170705-5186-424d-abd4-ca696b9abbb6)
 
 
   
