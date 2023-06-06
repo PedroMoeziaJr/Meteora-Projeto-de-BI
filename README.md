@@ -26,9 +26,25 @@ Fiz o download de cada pasta(produtos, pedidos, itens_pedidos e vendedores) no f
 ![image](https://github.com/PedroMoeziaJr/Meteora-Projeto-de-BI/assets/112977342/6b4ab758-360c-4adc-92e3-50b0a730974f)
 ![image](https://github.com/PedroMoeziaJr/Meteora-Projeto-de-BI/assets/112977342/1f4de862-6401-42cf-80d4-e68375bbd4fa)
 
-Depois de baixar todas as pastas no formato .CSV abri o Microsoft SQL Server Managemente Studio e criei o banco de dados da Meteora
+Depois de baixar todas as pastas no formato .CSV abri o Microsoft SQL Server Managemente Studio e criei o banco de dados da Meteora no meu servidor:
 
-  create database meteora
+	create database meterora
+
+Depois com o botão direito do mouse em cima do banco de dados fui em:
+>Tarefas>Importar Arquivo Simples
+
+![image](https://github.com/PedroMoeziaJr/Meteora-Projeto-de-BI/assets/112977342/d742855d-2d5b-4241-b8f2-ad02cca5b7af)
+
+Cliquei em Próxima>Procurar e Procurei os arquivs .CSV e começei pela pasta "produtos"
+
+![image](https://github.com/PedroMoeziaJr/Meteora-Projeto-de-BI/assets/112977342/2169c7c6-ba8b-4d0e-bcd6-0fc0284346f0)
+
+>Próxima
+
+![image](https://github.com/PedroMoeziaJr/Meteora-Projeto-de-BI/assets/112977342/f1e67847-4b63-42c5-99da-4809af6d2f06)
+
+
+
   
   
 
