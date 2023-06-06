@@ -19,16 +19,20 @@ Projeto parte do Alura Challenge BI 3 e 4 semana
 >Criação do modelo físico do banco de dados da empresa.
 
 ![meteora-moda-de-impacto](https://github.com/PedroMoeziaJr/Meteora-Projeto-de-BI/assets/112977342/bb915142-e440-4193-9ec3-b94c29c3c70c)
+ 
+>Criação das tabelas.
 
->Criação do banco de dados físico.
+Fiz o download de cada pasta(produtos, pedidos, itens_pedidos e vendedores) no formato .CSV e salvei em uma pasta no meu computador.
+![image](https://github.com/PedroMoeziaJr/Meteora-Projeto-de-BI/assets/112977342/6b4ab758-360c-4adc-92e3-50b0a730974f)
+![image](https://github.com/PedroMoeziaJr/Meteora-Projeto-de-BI/assets/112977342/1f4de862-6401-42cf-80d4-e68375bbd4fa)
+
+Depois de baixar todas as pastas no formato .CSV abri o Microsoft SQL Server Managemente Studio e criei o banco de dados da Meteora
 
   create database meteora
   
->Criação das tabelas.
->Importanto dados das planilhas Meteora - matriz .xlsx
+  
 
-Fiz o download de cada pasta(produtos, pedidos, itens_pedidos e vendedores) no formato .CSV e salvei em uma pasta.
-![image](https://github.com/PedroMoeziaJr/Meteora-Projeto-de-BI/assets/112977342/6b4ab758-360c-4adc-92e3-50b0a730974f)
+
 
 
 
