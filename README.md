@@ -56,8 +56,22 @@ select * from produtos;
 ![image](https://github.com/PedroMoeziaJr/Meteora-Projeto-de-BI/assets/112977342/da864b9f-e6b7-432a-8100-e8b68269bc3e)
 
 E assim fiz com as demais pastas
-  
-  
+
+
+TRABALHANDO COM A EXTRAÇÃO DE DADOS NO QLIK SENSE
+
+CRIANDO A DASHBOARD
+
+Calcule o valor da Receita da Meteora para posteriormente utilizarmos na criação de mais métricas.
+
+Criar a seguinte medida RECEITA
+sum(valor_total*quantidade)
+
+Calcule e exiba o lucro da Meteora
+
+Criar a seguinte medida LUCRO
+Receita - SUM(valor_unitario * quantidade)
+
 
 
 
