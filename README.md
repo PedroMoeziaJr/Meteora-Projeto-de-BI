@@ -62,15 +62,23 @@ TRABALHANDO COM A EXTRAÇÃO DE DADOS NO QLIK SENSE
 
 CRIANDO A DASHBOARD
 
-Calcule o valor da Receita da Meteora para posteriormente utilizarmos na criação de mais métricas.
+-Calcule o valor da Receita da Meteora para posteriormente utilizarmos na criação de mais métricas.
 
 Criar a seguinte medida RECEITA
-sum(valor_total*quantidade)
 
-Calcule e exiba o lucro da Meteora
+	sum(valor_total*quantidade)
+
+Nesse caso, você multiplicaria o valor total de cada item pelo seu respectivo valor na coluna "quantidade" e, em seguida, somaria esses valores para obter a receita total.
+
+A multiplicação pelo campo "quantidade" é necessária para levar em consideração a quantidade de cada item vendido ao calcular a receita.
+
+Novamente, peço desculpas pela confusão anterior e agradeço por trazer o erro ao meu conhecimento.
+
+-Calcule e exiba o lucro da Meteora
 
 Criar a seguinte medida LUCRO
-Receita - SUM(valor_unitario * quantidade)
+
+	Receita - SUM(valor_unitario * quantidade)
 
 
 
