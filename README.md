@@ -80,6 +80,7 @@ Criar a seguinte medida LUCRO
 
 	Receita - SUM(valor_unitario * quantidade)
 
+-Vamos mostrar a quantidade de vendas por estado.
 Criando um gráfico de MAPA no Qlik apenas coms os campo Estados o programa não detectou. Portanto retirei do campo o "BR-" usando o seguinte comando:
 	
 	Replace(Estado, 'BR-', '') as Estado	
