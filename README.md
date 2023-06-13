@@ -119,7 +119,8 @@ Por isso, criei o seguinte script:
 	IF(Estado = 'BR-BR-RR', 'Roaima',
 	IF(Estado = 'BR-SE', 'Sergipe','')))))))))))))))))))))))))))) as ESTADO,
 	
-
+Após essa correção a localização ficou acertada:
+![image](https://github.com/PedroMoeziaJr/Meteora-Projeto-de-BI/assets/112977342/4e1c8716-605d-44a0-8aa9-7f4b19c2afe0)
 
 
 
