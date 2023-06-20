@@ -129,6 +129,14 @@ Por isso, criei o seguinte script:
 Após essa correção a localização ficou acertada:
 ![image](https://github.com/PedroMoeziaJr/Meteora-Projeto-de-BI/assets/112977342/4e1c8716-605d-44a0-8aa9-7f4b19c2afe0)
 
+Para complementar o mapa inserimos uma planilha com o desempenho em cada ESTADO:
+
+![image](https://github.com/PedroMoeziaJr/Meteora-Projeto-de-BI/assets/112977342/11275843-8cf6-4475-8e8c-25cd9068274a)
+
+Ao selecionar o ESTADO temos as seguintes informações:
+
+![image](https://github.com/PedroMoeziaJr/Meteora-Projeto-de-BI/assets/112977342/169d9bce-b671-4e20-9505-16479b74478e)
+
 <h3>Exibindo as métricas as métricas de forma temporal</h3>
 
 Antes de inserir um gráfico barras, criei a dimensão MÊS usando o campo data_compra:
