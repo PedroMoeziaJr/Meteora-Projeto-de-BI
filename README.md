@@ -86,7 +86,8 @@ Criar a medida DESPESA com a seguinte fórmula:
 
 	sum(frete)
 
--Vamos mostrar a quantidade de vendas por estado.
+<h3>-Vamos mostrar a quantidade de vendas por estado.</h3>
+
 Criando um gráfico de MAPA no Qlik apenas coms os campo Estados o programa não detectou. Portanto retirei do campo o "BR-" usando o seguinte comando:
 	
 	Replace(Estado, 'BR-', '') as Estado	
