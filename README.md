@@ -74,7 +74,7 @@ A multiplicação pelo campo "quantidade" é necessária para levar em considera
 
 Novamente, peço desculpas pela confusão anterior e agradeço por trazer o erro ao meu conhecimento.
 
--Calcule e exiba o lucro da Meteora
+<H3>-Calcule e exiba o lucro da Meteora</H3>
 
 Criar a seguinte medida LUCRO
 
