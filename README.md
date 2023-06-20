@@ -14,7 +14,7 @@ Projeto parte do Alura Challenge BI 3 e 4 semana
 
 ## Detalhes do projeto
 
-1- Criação do Banco de Dados da empresa Meteora.
+<h1>1- Criação do Banco de Dados da empresa Meteora.</h1>
 
 >Criação do modelo físico do banco de dados da empresa.
 
