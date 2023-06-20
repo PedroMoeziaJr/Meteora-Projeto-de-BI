@@ -153,7 +153,8 @@ Para complementar colocamos um filtro para selecionar o ANO usando a fórmula:
 
 Desta forma, a dashboard para empresa METEORA - MODA DE IMPACTO ficou com o seguinte design:
 
-[cc5cb59319d244d8a90355dd8f6cd96b.pdf](https://github.com/PedroMoeziaJr/Meteora-Projeto-de-BI/files/11804746/cc5cb59319d244d8a90355dd8f6cd96b.pdf)
+![image](https://github.com/PedroMoeziaJr/Meteora-Projeto-de-BI/assets/112977342/373c9dff-fd08-4115-87e5-e4e9e8a770d8)
+
 
 
 
