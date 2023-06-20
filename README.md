@@ -76,9 +76,13 @@ Novamente, peço desculpas pela confusão anterior e agradeço por trazer o erro
 
 <H3>-Calcule e exiba o lucro da Meteora</H3>
 
-Criar a seguinte medida LUCRO
+<h3>-Criar a seguinte medida LUCRO com a seguinte fórmula</h3>
 
 	Receita - SUM(valor_unitario * quantidade)
+ 
+Calcule e exiba a despesas da Meteora.
+
+	sum(frete)
 
 -Vamos mostrar a quantidade de vendas por estado.
 Criando um gráfico de MAPA no Qlik apenas coms os campo Estados o programa não detectou. Portanto retirei do campo o "BR-" usando o seguinte comando:
