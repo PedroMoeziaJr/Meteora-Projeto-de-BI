@@ -62,7 +62,7 @@ E assim fiz com as demais pastas
 
 <H2>CRIANDO A DASHBOARD</H2>
 
--Calcule o valor da Receita da Meteora para posteriormente utilizarmos na criação de mais métricas.
+<H3>-Calcule o valor da Receita da Meteora para posteriormente utilizarmos na criação de mais métricas.</H3>
 
 Criar a seguinte medida RECEITA
 
