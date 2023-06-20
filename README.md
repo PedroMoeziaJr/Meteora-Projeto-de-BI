@@ -129,6 +129,21 @@ Por isso, criei o seguinte script:
 Após essa correção a localização ficou acertada:
 ![image](https://github.com/PedroMoeziaJr/Meteora-Projeto-de-BI/assets/112977342/4e1c8716-605d-44a0-8aa9-7f4b19c2afe0)
 
+<h3>Exibindo as métricas as métricas de forma temporal</h3>
+
+Antes de inserir um gráfico barras, criei a dimensão MÊS usando o campo data_compra:
+
+	=Month(data_compra)
+
+Logo em seguida, depois de colocar o gráfico de barra inserimos as medidas LUCRO, RECEITA e DESPESA.
+
+![image](https://github.com/PedroMoeziaJr/Meteora-Projeto-de-BI/assets/112977342/296c26d6-25bc-45cb-9c6d-0d0872ce4e18)
+
+Para complementar colocamos um filtro para selecionar o ANO usando a fórmula:
+
+	=Year(data_compra)
+
+ 
 
 
 
