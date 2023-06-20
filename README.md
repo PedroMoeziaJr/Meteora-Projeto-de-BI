@@ -151,9 +151,9 @@ Para complementar colocamos um filtro para selecionar o ANO usando a fórmula:
 
 	=Year(data_compra)
 
- 
+Desta forma, a dashboard para empresa METEORA - MODA DE IMPACTO ficou com o seguinte design:
 
-
+[cc5cb59319d244d8a90355dd8f6cd96b.pdf](https://github.com/PedroMoeziaJr/Meteora-Projeto-de-BI/files/11804746/cc5cb59319d244d8a90355dd8f6cd96b.pdf)
 
 
 
