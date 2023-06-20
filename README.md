@@ -16,7 +16,7 @@ Projeto parte do Alura Challenge BI 3 e 4 semana
 
 <h1>1- Criação do Banco de Dados da empresa Meteora.</h1>
 
-<h2>Criação do modelo físico do banco de dados da empresa.</h2>
+<h2>Da Modelagem a criação de um banco de dados.</h2>
 
 ![meteora-moda-de-impacto](https://github.com/PedroMoeziaJr/Meteora-Projeto-de-BI/assets/112977342/bb915142-e440-4193-9ec3-b94c29c3c70c)
 ![image](https://github.com/PedroMoeziaJr/Meteora-Projeto-de-BI/assets/112977342/b264f3c0-8fbc-4234-b505-91f7bb72c1fb)
