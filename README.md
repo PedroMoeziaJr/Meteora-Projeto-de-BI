@@ -11,7 +11,6 @@ Projeto parte do Alura Challenge BI 3 e 4 semana
 
 ![Prancheta 2](https://github.com/PedroMoeziaJr/Meteora-Projeto-de-BI/assets/112977342/f9a558a9-120e-4f5d-bec7-4c470e57afe4#vitrinedev)
 
-
 ## Detalhes do projeto
 
 <h1>1- Criação do Banco de Dados da empresa Meteora.</h1>
