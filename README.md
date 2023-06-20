@@ -76,11 +76,13 @@ Novamente, peço desculpas pela confusão anterior e agradeço por trazer o erro
 
 <H3>-Calcule e exiba o lucro da Meteora</H3>
 
-<h3>-Criar a seguinte medida LUCRO com a seguinte fórmula</h3>
+Criar a seguinte medida LUCRO com a seguinte fórmula
 
 	Receita - SUM(valor_unitario * quantidade)
  
-Calcule e exiba a despesas da Meteora.
+<h3>-Calcule e exiba a despesas da Meteora.</h3>
+
+Criar a medida DESPESA com a seguinte fórmula:
 
 	sum(frete)
 
