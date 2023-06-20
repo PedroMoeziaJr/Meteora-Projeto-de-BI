@@ -21,9 +21,10 @@ Projeto parte do Alura Challenge BI 3 e 4 semana
 ![image](https://github.com/PedroMoeziaJr/Meteora-Projeto-de-BI/assets/112977342/b264f3c0-8fbc-4234-b505-91f7bb72c1fb)
 
  
->Criação das tabelas.
+<h3>Criação das tabelas.</h3>
 
-Fiz o download de cada pasta(produtos, pedidos, itens_pedidos e vendedores) no formato .CSV e salvei em uma pasta no meu computador.
+Como a METEORA já possui seus dados armazenados em planilha do Google Sheets. Fiz o download de cada pasta(produtos, pedidos, itens_pedidos e vendedores) no formato .CSV e salvei em uma pasta no meu computador.
+
 ![image](https://github.com/PedroMoeziaJr/Meteora-Projeto-de-BI/assets/112977342/6b4ab758-360c-4adc-92e3-50b0a730974f)
 ![image](https://github.com/PedroMoeziaJr/Meteora-Projeto-de-BI/assets/112977342/1f4de862-6401-42cf-80d4-e68375bbd4fa)
 
@@ -32,6 +33,7 @@ Depois de baixar todas as pastas no formato .CSV abri o Microsoft SQL Server Man
 	create database meterora
 
 Depois com o botão direito do mouse em cima do banco de dados fui em:
+
 >Tarefas>Importar Arquivo Simples
 
 ![image](https://github.com/PedroMoeziaJr/Meteora-Projeto-de-BI/assets/112977342/d742855d-2d5b-4241-b8f2-ad02cca5b7af)
@@ -48,16 +50,22 @@ Cliquei em Próxima>Procurar e Procurei os arquivs .CSV e começei pela pasta "p
 
 >Próxima>Concluir
 
-create database meterora
-use meterora
-select * from produtos;
+Comandos SQL utilizados para criar o banco de dados:
+
+	create database meterora
+	use meterora
+
+Para confirmar que os dados foram inseridos ao banco de dados utilizei o seguinte comando:
+
+	select * from produtos;
 
 ![image](https://github.com/PedroMoeziaJr/Meteora-Projeto-de-BI/assets/112977342/da864b9f-e6b7-432a-8100-e8b68269bc3e)
 
-E assim fiz com as demais pastas
+E assim fiz com as demais pastas até que o banco de dados fosse criado:
 
 
-<H1>EXTRAINDO OS DADOS PARA O QLIK SENSE</H1>
+
+<H1>2- EXTRAINDO OS DADOS PARA O QLIK SENSE</H1>
 
 <H2>CRIANDO A DASHBOARD</H2>
 
